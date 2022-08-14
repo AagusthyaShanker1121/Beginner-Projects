@@ -1,3 +1,6 @@
+#This game consists of three cups and in one cup there is a ball. 
+#The three cups are then shuffled by a shuffler and ask the contestant to guess in which cup is the ball present.
+
 from random import shuffle 
 
 game_list = [' ' , 'o' , ' ']
